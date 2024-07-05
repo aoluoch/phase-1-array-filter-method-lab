@@ -1,6 +1,6 @@
 require ( './helpers.js' );
 
-const sinon = require( 'sinon' )
+const sinon = require( 'sinon' ) 
 
 describe('index.js', function () {
   describe('findMatching()', function () {
